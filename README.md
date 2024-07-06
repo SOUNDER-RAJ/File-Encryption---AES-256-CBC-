@@ -18,4 +18,4 @@ principles ensure a seamless, secure, maintainable, and extensible
 solution.
 
 The project highlights my learning curve in bash scripting and 
-Cryptography as a beginner. 
+Cryptography. 
